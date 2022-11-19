@@ -27,7 +27,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
     "@vue/cli-plugin-eslint": "^3.5.0",
-    "@vue/cli-service": "^3.5.0",
+    "@vue/cli-service": "^5.0.8",
     "@vue/eslint-config-standard": "^4.0.0",
     "@y3ticorp/vue-cli-plugin-assets-loader": "^1.0.3",
     "@y3ticorp/vue-cli-plugin-css": "^1.0.0",
